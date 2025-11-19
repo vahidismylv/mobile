@@ -72,6 +72,6 @@ class ProfileViewController: UIViewController {
     }
 }
 
-#Preview {
-    ProfileViewController()
-}
+//#Preview {
+//    ProfileViewController()
+//}
