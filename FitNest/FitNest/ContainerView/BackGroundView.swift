@@ -42,3 +42,4 @@ class BackgroundView: UIView {
         layer.insertSublayer(gradientLayer, at: 0)
      }
 }
+

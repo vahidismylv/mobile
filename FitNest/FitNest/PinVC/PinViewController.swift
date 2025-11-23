@@ -241,6 +241,6 @@ class PinViewController: UIViewController {
     }
 }
 
-//#Preview{
-//    PinViewController()
-//}
+#Preview{
+    PinViewController()
+}
